@@ -34,7 +34,7 @@ Information protection is an integral part of Microsoft 365 Enterprise suite, pr
 Microsoft Defender ATP applies the following methods to discover, classify, and protect data:
 
 - **Data discovery** - Identify sensitive data on Windows devices at risk
-- **Data classification** - Automatically classify data based on common Microsoft Information Protection (MIP) policies managed in Office 365 Security & Compliance Center. Auto-classification allows you to protect sensitive data even if the end user hasn’t manually classified it.
+- **Data classification** - Automatically detect when content has been assigned a Sensitivity label, or it contains data that matches a Sensitive information types
 
 
 ## Data discovery and data classification
